@@ -1,2 +1,2 @@
 # JavatoPython
-COvert Java code to Python and then perform refactoring.
+Convert Java code to Python and then perform refactoring.
